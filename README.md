@@ -43,12 +43,11 @@
 ### GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tauseeffayyaz&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=tauseeffayyaz&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tauseeffayyaz&theme=tokyonight" alt="GitHub contributions" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tauseeffayyaz&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+  <img src="https://streak-stats.demolab.com?user=tauseeffayyaz&hide_border=true&theme=tokyonight" alt="GitHub streak" />
 </p>
 
 ### Contribution snake
