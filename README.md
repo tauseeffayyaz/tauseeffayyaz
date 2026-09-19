@@ -1,12 +1,12 @@
 <!-- Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Tauseef%20Fayyaz&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Lead%20Full%20Stack%20Engineer%20%7C%20Founder%20of%20Sefism&descAlignY=58&descSize=18" alt="Tauseef Fayyaz" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Tauseef%20Fayyaz&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Lead%20Full%20Stack%20Engineer%20%7C%20Building%20Sefism&descAlignY=58&descSize=18" alt="Tauseef Fayyaz" />
 </p>
 
 <!-- Typing animation -->
 <p align="center">
   <a href="https://www.sefism.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Building+and+scaling+full-stack+products;Sharing+AI%2C+tech+and+career+growth;90K%2B+engineers+on+LinkedIn;Founder+of+Sefism" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Building+and+scaling+full-stack+products;Sharing+AI%2C+tech+and+career+growth;90K%2B+engineers+on+LinkedIn;Building+Sefism" alt="Typing SVG" />
   </a>
 </p>
 
@@ -28,7 +28,7 @@
 ### 👋 About me
 
 - 🧑‍💻 **Lead Full Stack Engineer**, leading a full-stack team: architecture, code review and engineering standards
-- 🚀 Founder of **[Sefism](https://www.sefism.com)**, a community for developer career growth: mentorship, project feedback and learning resources
+- 🚀 Building **[Sefism](https://www.sefism.com)**, a community for developer career growth: mentorship, project feedback and learning resources
 - 🤖 Sharing what works across **AI, software engineering and growth** with 90K+ people on LinkedIn
 - 🎓 BS Software Engineering, University of the Punjab
 - 📍 Lahore, Pakistan
