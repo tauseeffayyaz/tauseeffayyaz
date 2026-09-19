@@ -6,13 +6,13 @@
 <!-- Typing animation -->
 <p align="center">
   <a href="https://www.sefism.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Building+and+scaling+full-stack+products;Sharing+AI%2C+tech+and+career+growth;90K%2B+engineers+on+LinkedIn;Building+Sefism" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Building+and+scaling+full-stack+products;Sharing+AI%2C+tech+and+career+growth;100K%2B+learners;Building+Sefism" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- Social badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/tauseeffayyaz/"><img src="https://img.shields.io/badge/LinkedIn-90K%2B-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/tauseeffayyaz/"><img src="https://img.shields.io/badge/LinkedIn-100K%2B-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/tauseeffayyaz0"><img src="https://img.shields.io/badge/X-@tauseeffayyaz0-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://www.instagram.com/tauseeffayyaz/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.sefism.com"><img src="https://img.shields.io/badge/Sefism-sefism.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Sefism" /></a>
@@ -29,7 +29,7 @@
 
 - **Lead Full Stack Engineer**, leading a full-stack team: architecture, code review and engineering standards
 - Building **[Sefism](https://www.sefism.com)**, a community for developer career growth: mentorship, project feedback and learning resources
-- Sharing what works across **AI, software engineering and growth** with 90K+ people on LinkedIn
+- Sharing what works across **AI, software engineering and growth** with 100K+ learners
 - BS Software Engineering, University of the Punjab
 - Lahore, Pakistan
 - Mentorship, collaborations or partnerships: **tauseeffayyaz@gmail.com**
